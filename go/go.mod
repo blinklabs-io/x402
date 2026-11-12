@@ -11,7 +11,7 @@ require (
 	github.com/gagliardetto/solana-go v1.23.0
 	github.com/gin-gonic/gin v1.11.0
 	github.com/google/uuid v1.6.0
-	github.com/labstack/echo/v4 v4.16.2
+	github.com/labstack/echo/v4 v4.16.3
 	github.com/make-software/casper-go-sdk/v2 v2.1.0
 	github.com/modelcontextprotocol/go-sdk v1.8.0
 	github.com/mr-tron/base58 v1.2.0
